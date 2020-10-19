@@ -163,12 +163,12 @@ header {
     transition: 0.5s;
   }
   .toggle .line1 {
-    transform: rotate(-45deg) translate(-10px, 5px);
+    transform: rotate(-45deg) translate(-9px, 15px);
   }
   .toggle .line2 {
     opacity: 0;
   }
   .toggle .line3 {
-    transform: rotate(45deg) translate(-10px, -5px);
+    transform: rotate(45deg) translate(-5px, -12px);
   }
 }
