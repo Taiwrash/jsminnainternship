@@ -466,7 +466,7 @@ footer {
   }
 
   nav {
-    display: flex;
+    display: none;
     width: 100%;
     height: 80px;
     align-items: center;
